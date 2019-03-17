@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
     class MyClick implements View.OnClickListener {
         @Override
         public void onClick(View v) {
+            System.out.println(v);
             //获得view的名称中"button"的位置
             int index=v.toString().lastIndexOf("button");
             //view名称中有"button*"的信息，可利用*来确定事件来源者身份
