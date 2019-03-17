@@ -1,5 +1,5 @@
 # 计算器设计思路
-
+CSDN博客，见：https://blog.csdn.net/Hpsyche/article/details/88620022
 ## 计算器界面的实现
 
 界面如下：
